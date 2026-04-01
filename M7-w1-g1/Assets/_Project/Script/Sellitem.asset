@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0de723dfd8a254247a51c65fe01bb338, type: 3}
+  m_Name: Sellitem
+  m_EditorClassIdentifier: 
+  dataItems:
+  - {fileID: 11400000, guid: bcc8a762c026f0f44805ce8b32575fde, type: 2}
+  - {fileID: 11400000, guid: 953c27ca725b1f54bb1c642c494aa073, type: 2}
+  - {fileID: 11400000, guid: 431509bc976e04842b27d109e88d8912, type: 2}
